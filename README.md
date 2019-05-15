@@ -62,12 +62,10 @@ In order to simulate this LRFU, execute following command:
 ```
    * git clone https://github.com/adiparamartha/LRFU-Replacement-Policy-using-ndnSIM lrfu
 ```
-<br>
+
 ```
    * Move table content to ndnSIM/ns-3/src/ndnSIM/NFD/daemon/table/
-   <br>
    * Move helper content to ndnSIM/ns-3/src/ndnSIM/helper/
-   <br>
    * Move examples content to ndnSIM/ns-3/src/ndnSIM/examples/
 ```
 
@@ -94,4 +92,4 @@ In order to simulate this LRFU, execute following command:
 ```   
 
 <h2>Feedback</h2>
-For any Information and Feedback, please do not hesitate to email me at: [mdparamartha95@gmail.com]
+For any Information and Feedback, please do not hesitate to email me at: **mdparamartha95@gmail.com**
